@@ -1,4 +1,4 @@
-# Unity Voice Demo
+# Unity Voice Demo (Simple Start)
 
 Here you can find a boilerplate Unity project for use with the [Carter API](https://www.carterapi.com).
 
