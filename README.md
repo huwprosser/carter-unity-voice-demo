@@ -18,5 +18,5 @@ Stuck? Join the awesome [Discord Community](https://carterapi.com).
 
 - Run the interactive demo, hold SPACE to speak and release when finished.
 
-<h3>Notice</h3>
-Our voice service is in Beta release, accuracy may vary.
+<h3>Our voice service is in Beta release, accuracy may vary.</h3>
+
