@@ -4,6 +4,8 @@ Here you can find a boilerplate Unity project for use with the [Carter API](http
 
 Stuck? Join the awesome [Discord Community](https://carterapi.com).
 
+<img src='./demo.gif' />
+
 <h2>Get Started</h2>
 
 - Install Unity
